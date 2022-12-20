@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/drawable/ic_add.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/drawable/ic_delete.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/drawable/ic_empty.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/drawable/roundedbutton.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/drawable/roundedbuttonblue.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/drawable/roundedbuttonlightblue.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/drawable/roundedbuttonpurple.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/drawable/roundedbuttonyllow.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/layout/activity_add.xml" value="0.2" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/layout/activity_update.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/benos/AndroidStudioProjects/SQLite_Android-Complete_Tutorial-master/app/src/main/res/layout/my_row.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
